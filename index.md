@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Sofia Guillen, and I am a student at Cal State Fullerton(http://www.fullerton.edu/) majoring in Computer Science.
+Welcome to my home page! My name is Sofia Guillen, and I am a student at Cal State Fullerton(http://www.fullerton.edu/) majoring in Computer Science.
 
 ## Computer Science Projects
 
