@@ -2,10 +2,6 @@
 
 Welcome to my home page! My name is Sofia Guillen, and I am a student at Cal State Fullerton(http://www.fullerton.edu/) majoring in Computer Science.
 
-## Computer Science Projects
-
-My GitHub page is http://github.com/Sofii-gui.
-
 ### MY FAVORITE CPSC 120L LABS:
 
 * LAB 6, PART 2
