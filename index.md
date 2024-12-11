@@ -4,15 +4,15 @@ Welcome to my home page! My name is Sofia Guillen, and I am a student at Cal Sta
 
 ### MY FAVORITE CPSC 120L LABS:
 
-* LAB 6, PART 2 #f53b22
+* LAB 6, PART 2 {#f53b22}
 
   > In this lab, my partner and I created the game Black Jack. We could play the game after we finished writing and correcting the code for the program, but before the lab, I had never played the game Black Jack. The lab introduced me to the concept of the game, which I found interesting and a bit fun.
 
-* LAB 8, PART 2 #f53b22
+* LAB 8, PART 2 {#f53b22}
 
   > For this lab, the reason that it is one of my favorites is because it was the lab where I felt accomplished. The reason for that feeling is that this is the lab where my partner did most of the work independently without asking the TA for help. We only asked him to check our work, which was correct. 
 
-* LAB 12, PART 1 #f53b22
+* LAB 12, PART 1 {#f53b22}
 
   > This lab was my favorite out of all the others. I had been anticipating it all year because it introduced images and animation, which I found exciting. The output of the program— a gradient animation—was fun to watch. Additionally, topics like Magick, RGB, etc., were some things I was familiar with already, so putting them to use was enjoyable and quite a learning experience.
 
