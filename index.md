@@ -10,7 +10,7 @@ My GitHub page is http://github.com/Sofii-gui.
 
 * LAB 6, PART 2
 
-  > In this lab, we created the game Black Jack. We could play the game after we finished writing and correcting the code for the program, but before the lab, I had never played the game Black Jack. The lab introduced me to the concepts of the games, which I found interesting and a bit fun.
+  > In this lab, my partner and I created the game Black Jack. We could play the game after we finished writing and correcting the code for the program, but before the lab, I had never played the game Black Jack. The lab introduced me to the concept of the game, which I found interesting and a bit fun.
 
 * LAB 8, PART 2
 
