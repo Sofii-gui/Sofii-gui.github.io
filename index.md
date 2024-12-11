@@ -12,6 +12,7 @@ lab, I had never played the game
 Black Jack. The lab introduced me to
 the concepts of the games, which I
 found interesting and a bit fun.
+
 LAB 8, PART 2
 For this lab, the reason that it is one of
 my favorite is because it was the lab
@@ -21,6 +22,7 @@ where my partner did most of the work
 independently without asking the TA
 for help. We only asked him to check
 our work, which was correct. 
+
 LAB 12, PART 1
 This lab was my favorite out of all the
 others. I had been anticipating it all
