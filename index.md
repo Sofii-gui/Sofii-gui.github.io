@@ -17,7 +17,7 @@ found interesting and a bit fun.
 LAB 8, PART 2
 
   * For this lab, the reason that it is one of
-my favorite is because it was the lab
+my favorites is because it was the lab
 where I felt accomplished. The reason
 for that feeling is that this is the lab
 where my partner did most of the work
