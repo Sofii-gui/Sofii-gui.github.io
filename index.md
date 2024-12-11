@@ -6,7 +6,7 @@ This is my home page! My name is Sofia Guillen, and I am a student at Cal State 
 
 My GitHub page is http://github.com/your_username.
 
-### CPSC 120
+### MY FAVORITE CPSC 120L LABS:
 
 LAB 6, PART 2
 
